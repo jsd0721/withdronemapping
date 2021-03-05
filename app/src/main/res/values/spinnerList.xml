@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="area_name">
+        <item>고성</item>
+        <item>산청</item>
+        <item>거창</item>
+        <item>명리</item>
+        <item>창녕</item>
+        <item>그외1</item>
+        <item>그외2</item>
+        <item>그외3</item>
+    </string-array>
+</resources>
